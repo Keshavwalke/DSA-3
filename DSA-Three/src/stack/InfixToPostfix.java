@@ -65,8 +65,6 @@ public class InfixToPostfix {
 		String B="l-(l*q/s)/q*(u-p)";
 		System.out.println(solve(A));
 		System.out.println(solve(B));
-	//	llq*s/q/up-*-
-	//	llq*s/-qup-*/
 		
 
 	}
